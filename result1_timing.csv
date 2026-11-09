@@ -1,0 +1,5 @@
+model,median_t_landmark_s,median_t_meta_s,median_t_cleanlab_s,median_t_features_total_s,median_t_train_s,median_ratio_all_features,share_faster_all_features,median_ratio_landmark_only,share_faster_landmark_only
+logreg,0.12,0.132,0.485,0.61,0.024,26.988,0.06,5.152,0.173
+rf,0.12,0.132,0.485,0.61,0.408,1.579,0.183,0.291,1.0
+xgb,0.12,0.132,0.485,0.61,0.138,4.042,0.26,0.73,0.638
+lgbm,0.12,0.132,0.485,0.61,0.163,2.994,0.275,0.596,0.669
