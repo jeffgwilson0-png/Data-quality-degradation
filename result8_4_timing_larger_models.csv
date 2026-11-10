@@ -1,0 +1,4 @@
+model,training_s,meta_features_s,landmark_s,share_faster_all_features,share_faster_landmark_only,median_ratio_all,median_ratio_landmark
+rf_big,1.933,0.619,0.119,1.0,1.0,0.258,0.051
+xgb_big,1.436,0.619,0.119,0.715,1.0,0.456,0.084
+lgbm_big,1.027,0.619,0.119,0.618,1.0,0.507,0.112
